@@ -80,6 +80,8 @@ Because this file is modified, the original Microsoft Authenticode signature is 
 
 [Exchange Server Auth Certificate Field Guide: Validation, Rotation, Recovery, and Time Zone Issues](https://ceyhunkirmizitas.net/exchange-server-auth-certificate-renewal-recovery-timezone/)
 
+Development/test variants (not for production): [Dev/README.md](Dev/README.md).
+
 ## License
 
 MIT. The upstream Microsoft copyright and license are preserved. See [LICENSE](LICENSE).
